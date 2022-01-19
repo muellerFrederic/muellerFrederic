@@ -1,4 +1,4 @@
-### Hello friend, I’m @muellerFrederic 👋:smile:
+### Welcome, I’m @muellerFrederic 👋:smile:
 #### I’m interested in :computer::robot::zap:
  - Software Engineering 
  - Systems Engineering 
