@@ -1,7 +1,6 @@
 ### Welcome, I’m @muellerFrederic 👋:smile:
 #### I’m interested in :computer::robot::zap:
  - Software Engineering 
- - Systems Engineering 
  - Machine Learning 
  - Fullstack Development 
  
