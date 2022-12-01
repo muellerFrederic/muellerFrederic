@@ -1,8 +1,4 @@
 ### Welcome, I’m @muellerFrederic 👋:smile:
-#### I’m interested in :computer::robot::zap:
- - Software Engineering 
- - Machine Learning 
- - Fullstack Development 
- 
-#### I'm currently working on :hammer::wrench:
- - A really cool python-package, I'll make it public soon :snake: 
+I'm a Mechatronics Engineer living in Germany. 
+I'm currently working at EMHS GmbH as a Development Engineer :computer::hammer:
+
